@@ -5,5 +5,9 @@ public class Google {
 
         System.out.println("Google page");
     }
+
+    public void welcome(){
+        System.out.println("Welcome to the city");
+    }
 }
 
